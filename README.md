@@ -1,11 +1,11 @@
 # Hulu-clone
 my first responsive Clone to match the acuracy and precisions  with the Original one, Using HTML ,CSS and bit of JavaScript#
 
-#Links 
+# Links 
 To Go Live [Click Here](https://prathamesh18x.github.io/hulu-clone/)
 
 
-#ScreenShots
+# ScreenShots
 Dashboard 
 ![image](https://github.com/Prathamesh18X/hulu-clone/assets/109477390/8f1f9ae9-1f3f-4448-9755-2c80b7da2e08)
 
