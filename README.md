@@ -1,4 +1,4 @@
-![image](https://github.com/Prathamesh18X/hulu-clone/assets/109477390/929faa21-8cc4-4ced-8ea0-0c1364c6160e)# Hulu-clone
+# Hulu-clone
 my first responsive Clone to match the acuracy and precisions  with the Original one, Using HTML ,CSS and bit of JavaScript#
 
 #Links 
