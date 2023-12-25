@@ -2,7 +2,7 @@
 my first responsive Clone to match the acuracy and precisions  with the Original one, Using HTML ,CSS and bit of JavaScript#
 
 # Links 
-To Go Live [Click Here](https://prathamesh18x.github.io/hulu-clone/)
+To Go Live [Click Here](https://prathamesh18x.github.io/Hulu-Clone/)
 
 
 # ScreenShots
